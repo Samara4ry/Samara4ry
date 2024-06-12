@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <!--Avatar-->
+  <div align="center">
+  <img src="Imagens/Perfil.png" alt="Profile Picture">
 </div>
 
 ###
@@ -16,12 +18,16 @@ Formei-me em Psicologia e estou no caminho para aprimorar minha carreira. Além 
 
 <h3 align="left">👩‍💻 Mais Sobre</h3>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
 <p align="left">Situada em Cascavel, Paraná, Brasil <br><br>- 🎓 Bacharel em Psicologia - Centro Universitário São Lucas <br>- 📚 Atualmente estou aprendendo mais sobre neurociência e técnicas avançadas de psicoterapia<br>- 💖 No meu tempo livre, adoro malhar na academia, jogar vôlei, ler livros e jogar videogames</p>
 
 ##
 
-<h3 align="left">🔥   Status:</h3>
+<h3 align="left">🔥 Minhas atividades:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samara4ry&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
