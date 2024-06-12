@@ -14,7 +14,7 @@
 
 Olá! Sou Samara, uma entusiasta da psicologia e psicóloga dedicada, atualmente com 20 anos. Meu objetivo é entender profundamente a mente humana e usar esse conhecimento para fazer a diferença na vida das pessoas.
 
-Formei-me em Psicologia e estou no caminho para aprimorar minha carreira. Além das práticas clínicas e estudos contínuos, utilizo o GitHub como uma ferramenta essencial para meus projetos. Aqui, organizo minhas pesquisas, compartilho colaborações e exploro novas técnicas e metodologias na área de psicologia. Acredito que a interseção entre psicologia e tecnologia tem um potencial imenso para inovação na área da saúde mental.
+Formei-me em Psicologia e estou no caminho para aprimorar minha carreira. Além das práticas clínicas e estudos contínuos, descobri o GitHub através de amigos e utilizo a plataforma como uma ferramenta essencial para meus projetos. Aqui, organizo minhas pesquisas, compartilho colaborações e exploro novas técnicas e metodologias na área de psicologia. Acredito que a interseção entre psicologia e tecnologia tem um potencial imenso para inovação na área da saúde mental.
 
 <h3 align="left">👩‍💻 Mais Sobre</h3>
 
