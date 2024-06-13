@@ -10,10 +10,7 @@
 
 - I'm Samara or Sá or Sammy
 - Located in Cascavel, Paraná, Brazil
-##
-- 🎓 Bachelor's Degree in Psychology - Centro Universitário São Lucas
-- 📚 I am currently learning more about neuroscience and advanced psychotherapy techniques
-- 💖 In my free time, I love working out at the gym, playing volleyball, reading books, and playing video games
+- Currently working at [São Lucas Hospital](https://saolucashospital.gupy.io/)
 
 <br>
 
@@ -23,6 +20,10 @@
 Hello! My name is Samara, a 20-year-old psychology enthusiast and dedicated psychologist. My goal is to deeply understand the human mind and use that knowledge to make a difference in people's lives.
 
 I graduated with a degree in Psychology and am on the path to enhance my career. In addition to clinical practices and ongoing studies, I discovered GitHub through friends and use the platform as an essential tool for my projects. Here, I organize my research, share collaborations, and explore new techniques and methodologies in the field of psychology. I believe that the intersection of psychology and technology has immense potential for innovation in the field of mental health.
+
+- 🎓 Bachelor's Degree in Psychology - Centro Universitário São Lucas
+- 📚 I am currently learning more about neuroscience and advanced psychotherapy techniques
+- 💖 In my free time, I love working out at the gym, playing volleyball, reading books, and playing video games
 </details>
 
 # Languages 
