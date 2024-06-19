@@ -6,7 +6,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=1000&color=EE05F7&center=false&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;Como+vai+%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=1000&color=EE05F7&center=false&random=false&width=435&lines=Hi;How+Are+You+%3F)](https://git.io/typing-svg)
 
 - I'm Samara or Sá or Sammy
 - Located in Cascavel, Paraná, Brazil
