@@ -6,7 +6,6 @@
 
 ###
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE05F7&size=25&center=true&vCenter=true&width=1000&lines=Hi+My+Name+Samara+Nunes;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <div align=center>
@@ -39,6 +38,10 @@ I graduated with a degree in Psychology and am on the path to enhance my career.
 
 <h3 align="left">🔥 My Activities:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samara4ry&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Samara4ry?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
+</div>
 
 ###
