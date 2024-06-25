@@ -6,7 +6,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=1000&color=EE05F7&center=false&random=false&width=435&lines=Hi;How+Are+You+%3F)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE05F7&size=25&center=true&vCenter=true&width=1000&lines=Hi+My+Name+Samara+Nunes;Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+<div align=center>
+<img height="150em" src="https://camo.githubusercontent.com/700c1e9358406971d2c5c39db87ec8e4a6d7142585744b2fa6dd280c1d6412a6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34352f30392f39352f34353039393563343039653434636664353564323933373537616237623463612e676966">
+</div>
 
 - I'm Samara or Sá or Sammy
 - Located in Cascavel, Paraná, Brazil
