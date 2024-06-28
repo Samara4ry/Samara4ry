@@ -25,6 +25,8 @@ Hello! My name is Samara, a 20-year-old psychology enthusiast and dedicated psyc
 
 I graduated with a degree in Psychology and am on the path to enhance my career. In addition to clinical practices and ongoing studies, I discovered GitHub through friends and use the platform as an essential tool for my projects. Here, I organize my research, share collaborations, and explore new techniques and methodologies in the field of psychology. I believe that the intersection of psychology and technology has immense potential for innovation in the field of mental health.
 
+In addition, I took several courses on the [Curso em Vídeo](https://www.cursoemvideo.com/) website, where I learned the basics of HTML and CSS. I also had the opportunity to deepen my knowledge with the help of friends.
+
 - 🎓 Bachelor's Degree in Psychology - Centro Universitário São Lucas
 - 📚 I am currently learning more about neuroscience and advanced psychotherapy techniques
 - 💖 In my free time, I love working out at the gym, playing volleyball, reading books, and playing video games
